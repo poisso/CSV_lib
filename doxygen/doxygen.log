@@ -1,0 +1,33 @@
+C:/CSV/csvlib.h:24: warning: argument 'the' of command @param is not found in the argument list of Csv::Csv(std::string path, std::vector< std::vector< std::string >> content, char sep)
+C:/CSV/csvlib.h:24: warning: argument 'the' of command @param is not found in the argument list of Csv::Csv(std::string path, std::vector< std::vector< std::string >> content, char sep)
+C:/CSV/csvlib.h:24: warning: argument 'the' of command @param is not found in the argument list of Csv::Csv(std::string path, std::vector< std::vector< std::string >> content, char sep)
+C:/CSV/csvlib.h:29: warning: The following parameters of Csv::Csv(std::string path, std::vector< std::vector< std::string >> content, char sep) are not documented:
+  parameter 'path'
+  parameter 'content'
+  parameter 'sep'
+C:/CSV/csvlib.h:32: warning: argument 'the' of command @param is not found in the argument list of Csv::Csv(std::string path, char sep)
+C:/CSV/csvlib.h:36: warning: The following parameter of Csv::Csv(std::string path, char sep) is not documented:
+  parameter 'sep'
+C:/CSV/csvlib.h:103: warning: argument 'vector' of command @param is not found in the argument list of Csv::add_column(std::vector< std::string > column)
+C:/CSV/csvlib.h:107: warning: The following parameter of Csv::add_column(std::vector< std::string > column) is not documented:
+  parameter 'column'
+C:/CSV/csvlib.h:80: warning: argument 'column' of command @param is not found in the argument list of Csv::column_extractor(std::string column_name)
+C:/CSV/csvlib.h:84: warning: The following parameter of Csv::column_extractor(std::string column_name) is not documented:
+  parameter 'column_name'
+C:/CSV/csvlib.h:97: warning: argument 'column' of command @param is not found in the argument list of Csv::erase_column(std::string colname)
+C:/CSV/csvlib.h:100: warning: The following parameter of Csv::erase_column(std::string colname) is not documented:
+  parameter 'colname'
+C:/CSV/csvlib.h:131: warning: argument 'Csv' of command @param is not found in the argument list of Csv::line_content_init(Csv file)
+C:/CSV/csvlib.h:136: warning: The following parameter of Csv::line_content_init(Csv file) is not documented:
+  parameter 'file'
+C:/CSV/csvlib.h:88: warning: argument 'name' of command @param is not found in the argument list of Csv::line_extractor(std::string line_name)
+C:/CSV/csvlib.h:93: warning: The following parameter of Csv::line_extractor(std::string line_name) is not documented:
+  parameter 'line_name'
+C:/CSV/csvlib.h:111: warning: argument 'Csv' of command @param is not found in the argument list of Csv::operator+(Csv file)
+C:/CSV/csvlib.h:115: warning: The following parameter of Csv::operator+(Csv file) is not documented:
+  parameter 'file'
+C:/CSV/csvlib.h:140: warning: argument 'stream' of command @param is not found in the argument list of Csv::operator<<(std::ostream &os, Csv file)
+C:/CSV/csvlib.h:140: warning: argument 'Csv' of command @param is not found in the argument list of Csv::operator<<(std::ostream &os, Csv file)
+C:/CSV/csvlib.h:146: warning: The following parameters of Csv::operator<<(std::ostream &os, Csv file) are not documented:
+  parameter 'os'
+  parameter 'file'

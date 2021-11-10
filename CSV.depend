@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1625750592 source:c:\csv\csvlib.cpp
+	"csvlib.h"
+
+1625752043 c:\csv\csvlib.h
+	<stdlib.h>
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<ostream>
+	<cassert>
+	<algorithm>
+
